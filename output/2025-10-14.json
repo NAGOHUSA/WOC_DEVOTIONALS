@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2025-10-14",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 160,
+  "content_markdown": "# Focused on the Prize\n## Scripture\n\"Let us run with perseverance the race marked out for us, fixing our eyes on Jesus...\" – Hebrews 12:2\n## Reflection\nAs men, we often find ourselves distracted by the world around us. Our priorities shift, and we lose sight of what truly matters. But the Christian life is not a sprint; it's a marathon that requires perseverance and focus. We must fix our eyes on Jesus, the author and perfecter of our faith (Hebrews 12:2). When we do, we'll find the strength to push through the tough times and stay committed to our faith.\n\nRemember, the prize is worth it. The Bible says, \"The crown of glory that only God the Father can give to you will remain in heaven forever\" (1 Corinthians 9:25). So, stay focused on the prize, and don't let the distractions of the world derail you.\n\n## Daily Challenge\n\"Run 50 yards without stopping while focusing on Jesus.\""
+}
