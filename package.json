@@ -1,14 +1,13 @@
 {
-  "name": "our-night-sky-devotionals",
-  "version": "2.0.0",
-  "private": true,
+  "name": "woc_devotionals",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "generate": "node generate-our-night-sky.js",
-    "track": "node content-tracker.js",
-    "start": "node generate-our-night-sky.js && node content-tracker.js"
+    "start": "node generate-devotional.js"
   },
-  "engines": {
-    "node": ">=18"
+  "dependencies": {
+    "groq-sdk": "^0.5.0",
+    "openai": "^4.0.0",
+    "node-fetch": "^3.3.2"
   }
 }
