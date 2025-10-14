@@ -1,62 +1,36 @@
-name: Generate Our Night Sky Devotional (v2)
+name: Generate Warriors of Christ Devotional
 
 on:
   schedule:
-    - cron: "0 8 * * *"   # 04:00 AM ET during DST (EDT = UTC-4)
-    - cron: "0 9 * * *"   # 04:00 AM ET during Standard Time (EST = UTC-5)
+    - cron: '0 8 * * *'   # 4:00 AM EST
   workflow_dispatch: {}
 
 jobs:
   generate-devotional:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    env:
-      # Location & optional overrides
-      ONS_LOCATION: "Macon, Georgia"
-      # ONS_DATE: "" # optionally pin a date (YYYY-MM-DD) for testing
-
-      # Provider config (override models/bases if you need)
-      GROK_API_BASE: "https://api.x.ai/v1"
-      GROK_MODEL: "grok-2-mini"
-
-      OPENAI_API_BASE: "https://api.openai.com/v1"
-      OPENAI_MODEL: "gpt-4o-mini"
-
-      DEEPSEEK_API_BASE: "https://api.deepseek.com/v1"
-      DEEPSEEK_MODEL: "deepseek-chat"
-
-      # Secrets (set in repo settings → Secrets and variables → Actions)
-      GROK_API_KEY: ${{ secrets.GROK_API_KEY }}
-      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-      DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
-
     steps:
-      - name: Checkout
+      - name: Checkout repo
         uses: actions/checkout@v4
 
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: '20'
 
-      - name: Install (no deps required, but keep step handy)
-        run: npm ci --ignore-scripts || true
+      - name: Install dependencies
+        run: npm ci || npm i
 
-      - name: Generate devotional (v2 schema)
-        run: npm run generate
+      - name: Run devotional generator
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: node generate-devotional.js
 
-      - name: Update content tracker
-        run: npm run track
-
-      - name: Commit & push
+      - name: Commit and push devotional
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add devotionals content_tracker.json
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-          else
-            git commit -m "chore: devotional for $(date -u +'%Y-%m-%d') [v2]"
-            git push
-          fi
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/
+          git commit -m "🕊️ Daily devotional for $(date +'%Y-%m-%d')" || echo "No changes to commit"
+          git push
