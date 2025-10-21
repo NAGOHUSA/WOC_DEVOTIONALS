@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2025-10-21",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 164,
+  "content_markdown": "# \"Face Your Fears with Courage\"\n## Scripture\n\"Do not be afraid of them, for I am with you and will bring you and your offspring and your father's household into the land that I will give to them.\" – Genesis 26:24 (NIV)\n## Reflection\nAs men, we're often faced with uncertainties in life that can evoke fear. However, our faith reminds us that we're not alone in these moments. We have a loving Father who promises to be with us always. When we face our fears, we must remember that God's presence is our greatest source of strength. He will provide us with the courage to confront our fears and overcome them. Remember that you're not fighting this battle alone; God is with you, and He will guide you through the toughest of times.\n\n## Daily Challenge\n\"Repeat the verse above three times while taking deep breaths, and then go for a brisk 30-minute walk, thanking God for His presence in your life.\""
+}
