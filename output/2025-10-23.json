@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2025-10-23",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 196,
+  "content_markdown": "# Called to Lead\n## Scripture\n\"Obey your leaders and submit to them, for they are keeping watch over your souls, as those who will have to give an account. Let them do this with joy and not with groaning, for that would be of no advantage to you.\" – Hebrews 13:17\n\n## Reflection\nAs men, we often take on leadership roles in our families, communities, and churches. It's easy to get caught up in the weight of responsibility and feel like we're shouldering the burden alone. But the Bible reminds us that we're not alone. We're called to submit to our leaders, who are watching over our souls and will have to give an account for us. This doesn't mean we should blindly follow, but rather that we should come alongside our leaders with joy and support. When we do, we'll find that our burdens become lighter and our faith becomes stronger.\n\n## Daily Challenge\nTake a moment to pray for your leaders today, asking God to give them wisdom, strength, and joy in their roles. Then, go out and be a leader in your own right, whether it's in your family, workplace, or community."
+}
