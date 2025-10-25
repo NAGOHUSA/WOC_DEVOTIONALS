@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2025-10-25",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 185,
+  "content_markdown": "# \"Stand Firm in the Storm\"\n## Scripture\n\"Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.\" – Philippians 4:6\n\n## Reflection\nAs men, we are often called to stand firm in the midst of life's storms. We face challenges at work, in our families, and in our communities that can leave us feeling anxious and unsure of how to respond. But as we read in Philippians 4:6, God calls us to bring our worries and concerns to Him, to present them to Him in prayer and thanksgiving. This means that rather than getting caught up in anxiety and fear, we can choose to trust in God's goodness and sovereignty. We can choose to stand firm in the storm, not because we have all the answers, but because we have a God who is always with us and who is working all things together for our good.\n\n## Daily Challenge\n\"Take 5 minutes to pray and thank God for His presence in your life, then go out and tackle the day with confidence.\""
+}
