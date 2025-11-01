@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2025-11-01",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 171,
+  "content_markdown": "# Unshaken and Unwavering\n## Scripture\n\"Hebrews 13:5-6 (NIV) - Never will I leave you; never will I forsake you. So we say with confidence, 'The Lord is my helper; I will not be afraid. What can mere mortals do to me?'\"\n## Reflection\nAs men, we face many challenges in life that can cause us to waver in our faith. We may feel overwhelmed by the pressures of work, family, or personal struggles. But the Bible reminds us that God is always with us and will never leave us. He is our rock, our shelter, and our helper. In times of uncertainty, we can turn to Him and trust in His promise to be with us always. Let us hold onto this truth and stand firm in our faith, even when the world around us seems to be shaking.\n\n## Daily Challenge\nTake 5 minutes to write down 5 things you're thankful for in your life, and then pray over them, giving thanks to God for His presence and provision."
+}
