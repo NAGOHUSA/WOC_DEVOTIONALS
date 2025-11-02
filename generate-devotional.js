@@ -44,7 +44,7 @@ You are writing a daily Christian devotional for a men's ministry called "Warrio
 
 Each devotional should:
 - Be titled (e.g., “Rise and Battle the Day”)
-- Include a relevant Bible verse (ESV or NIV)
+- Include a relevant Bible verse (ESV)
 - Contain a short reflection (120–200 words)
 - End with a simple 1–2 line workout challenge or encouragement (e.g., “Do 25 pushups while thanking God for strength.”)
 - Be motivating, practical, and biblically sound.
