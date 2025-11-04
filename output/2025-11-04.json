@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2025-11-04",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 188,
+  "content_markdown": "# Unshakable Foundation\n## Scripture\n\"Everyone then who hears these words of mine and does them will be like a wise man who built his house on the rock. And the rain fell, and the floods came, and the winds blew and beat on that house, but it did not fall, because it had been founded on the rock.\" – Matthew 7:24-25\n\n## Reflection\nAs men, we often find ourselves facing storms in life. Trials can come in many forms: financial struggles, relationship conflicts, or even health issues. But we don't have to be shaken by them. Our foundation can be unshakable if we build it on the rock of Jesus Christ. It's not about avoiding the storms, but about having a solid foundation that will withstand them. This foundation is built when we put our faith in God, follow His teachings, and trust in His sovereignty.\n\n## Daily Challenge\nTake 5 minutes to write down the storms you're facing in life. Then, write down the promises of God that give you hope and confidence. Memorize one of those promises and repeat it to yourself throughout the day."
+}
