@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2025-11-08",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 180,
+  "content_markdown": "# Battle-Tested Faith\n## Scripture\n\"For God did not give us a spirit of fear but of power and love and self-control.\" – 2 Timothy 1:7\n## Reflection\nAs warriors of Christ, we often face battles that seem too great to overcome. Fear can creep in and make us question our ability to fight. But the Bible tells us that we have been given a spirit of power, love, and self-control. This is not a natural spirit, but one that comes from God Himself. It's the same spirit that empowered the apostle Paul to suffer for the Gospel and to preach the Good News to the world.\n\nAs we face our own battles, let's remember that we don't have to face them alone. We have the power of the Holy Spirit living inside us, guiding us, strengthening us, and equipping us to overcome any obstacle. So let's not be controlled by fear, but by the power of God's love and self-control.\n\n## Daily Challenge\n\"Do 50 sit-ups while thanking God for the strength to persevere in the battles of life.\""
+}
