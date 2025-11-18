@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2025-11-18",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 184,
+  "content_markdown": "# Unshakeable Faith\n## Scripture\n\"He kept count of the stars - he called them all by name. Great is our Lord, and abundant in power; his understanding is beyond measure.\" – Psalm 147:4-5\n\n## Reflection\nAs men, we often face challenges that test our faith. We may question God's presence or power in our lives, wondering if He truly cares about our circumstances. But the Psalmist reminds us that God's understanding is beyond measure, and He keeps count of every star in the universe - naming them one by one. This is a reminder that God is fully aware of our lives, our struggles, and our needs. He is not caught off guard by our trials, and He has the power to overcome them. When we face doubt or uncertainty, let us remember God's sovereignty and power. He is our Rock, our Refuge, and our Strength.\n\n## Daily Challenge\n\"Write down three areas of your life where you need God's intervention. Then, take a moment to pray and thank Him for His sovereignty and power. Do 10 jumping jacks while declaring God's greatness.\""
+}
