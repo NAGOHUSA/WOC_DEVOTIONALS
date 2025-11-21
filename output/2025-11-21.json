@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2025-11-21",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 220,
+  "content_markdown": "# Unwavering Resolve\n## Scripture\n\"For I do not do the good I want, but the evil I do not want is what I keep on doing... But if I do what I do not want, I agree that the law is good. So now it is no longer I that do it, but sin that dwells within me. For I know that nothing good dwells in me, that is, in my flesh. For I have the desire to do what is right, but not the ability to carry it out.\" – [Romans 7:19, 16, 18]\n\n## Reflection\nWe often struggle with our own weaknesses and the battle within. It's easy to feel defeated and unsure of how to move forward when we know we want to do what's right, but can't seem to do it. As men of faith, we must remember that we are not alone in this struggle. Paul writes honestly about his own inner conflict, yet still affirms the goodness of God's law and the desire to obey it. This honest admission of our own frailty can be a powerful reminder of our need for God's strength and our dependence on Him.\n\n## Daily Challenge\n\"Write down three areas where you struggle with sin, and commit to confessing them to God and a trusted friend today.\""
+}
