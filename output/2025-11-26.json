@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2025-11-26",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 162,
+  "content_markdown": "# Unshakeable Faith\n## Scripture\n\"Have faith in God.\" – Mark 11:22\n## Reflection\nIn a world filled with uncertainty and turmoil, it's easy to lose our footing. The enemy of our souls will stop at nothing to shake our faith and leave us doubting God's goodness and power. But as men of faith, we must stand firm on the rock of our salvation. We must remember that our faith is not based on our feelings or circumstances, but on the unshakeable promise of God's Word. Just as the apostles stood firm on the day of Pentecost, despite facing fierce opposition, we too can stand strong in the face of adversity. Our faith is not a feeling, but a decision. We choose to trust in God, no matter what.\n\n## Daily Challenge\nStand on the rock of your salvation and declare your faith in God for 1 minute. Repeat the verse \"Have faith in God\" (Mark 11:22) out loud and mean it."
+}
