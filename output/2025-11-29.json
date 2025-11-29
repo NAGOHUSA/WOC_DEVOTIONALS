@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2025-11-29",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 187,
+  "content_markdown": "# Unshakeable Faith\n## Scripture\n\"He kept count of the stars - he gave a name to each. Likewise he will direct his cunning and do what his hand suggests.\" – Job 38:33\n## Reflection\nAs men, we face challenges that make us feel like the mountains are too high to climb and the storms are too strong to weather. But we are not alone. We have a God who knows the number of stars in the sky and can give a name to each one. He is the same God who is working all things together for our good (Romans 8:28). He is the same God who has called us to be his warriors, to stand firm and unshakeable in the face of adversity. Our faith is not based on our feelings or our circumstances, but on the unchanging character of God. Let us fix our eyes on him and trust in his goodness, even when the road ahead seems uncertain.\n\n## Daily Challenge\n\"Write down three things you are thankful for in your life today and pray for God to reveal his goodness in them.\""
+}
