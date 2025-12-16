@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2025-12-16",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 143,
+  "content_markdown": "# Unwavering Resolve\n## Scripture\n\"Consider it all joy, my brothers, when you fall into various trials, for you know that the testing of your faith produces steadfastness.\" – James 1:2-3\n\n## Reflection\nAs men, we face numerous challenges in life – some may seem insurmountable, while others may feel like minor setbacks. However, it is in these moments of adversity that our resolve is tested. Will we crumble under pressure, or will we draw strength from our faith? The Bible encourages us to view trials as opportunities for growth and character development. When we face obstacles, we must remember that our faith is not in our own abilities, but in the power of God. By trusting in Him, we can overcome even the most daunting challenges.\n\n## Daily Challenge\nRun 1 mile while praying for the strength to persevere through life's trials."
+}
