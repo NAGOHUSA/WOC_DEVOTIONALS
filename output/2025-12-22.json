@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2025-12-22",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 155,
+  "content_markdown": "# Unshakeable Strength\n## Scripture\n\"The Lord is my rock, and my salvation, and my stronghold; my God, my rock in whom I take refuge, my shield, and the horn of my salvation, my stronghold.\" – Psalm 18:2\n## Reflection\nAs men, we're often called to face challenges that make us feel unprepared, uncertain, or even fragile. But God's Word reminds us that we have an unshakeable strength within us that comes from Him. This strength is not just a feeling or a thought; it's a reality that's rooted in our faith in Christ. When we put our trust in God as our Rock, our Savior, and our Shield, we can face any obstacle with confidence. We can stand firm, even in the midst of turmoil, because we know that our God is greater than any challenge we may face.\n\n## Daily Challenge\n\"Run a mile while praying for strength to face your challenges today.\""
+}
