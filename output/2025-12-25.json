@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2025-12-25",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 143,
+  "content_markdown": "# \"Unshakeable Strength in the Storm\"\n## Scripture\n\"Trust in him at all times, O people; pour out your heart to him, for God is our refuge.\" – Psalm 62:8\n\n## Reflection\nAs warriors of Christ, we face many challenges in life. We're often called to stand firm in the midst of storms that rage around us. The psalmist reminds us that God is our refuge, our safe haven in times of turmoil. When the winds howl and the waves crash, we can trust in His unshakeable strength. It's not a strength that's dependent on our own abilities or circumstances, but one that's rooted in His unchanging character. As we pour out our hearts to Him, we find peace and stability in the midst of chaos.\n\n## Daily Challenge\n\"Run 5 miles while thanking God for being your rock in times of need.\""
+}
