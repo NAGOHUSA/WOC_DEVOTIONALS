@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2025-12-31",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 156,
+  "content_markdown": "# Unshakeable Faith\n## Scripture\n\"for God gave us a spirit not of fear but of power and love and self-control.\" – 2 Timothy 1:7\n## Reflection\nAs warriors of Christ, we often face uncertain and chaotic situations that can shake our faith. But the Bible reminds us that God gives us a spirit of power and love and self-control. This spirit is not a feeling or a human endeavor, but a gift from God that equips us to stand strong in the midst of turmoil. It's a spirit that allows us to trust God's sovereignty and provision, even when we don't understand the circumstances. As we rely on this spirit, we'll find ourselves unshakeable in the face of adversity, trusting God to guide and direct us through the unknown.\n\n## Daily Challenge\nSpend 5 minutes in prayer, thanking God for the gift of his spirit and asking for the power to stand firm in faith."
+}
