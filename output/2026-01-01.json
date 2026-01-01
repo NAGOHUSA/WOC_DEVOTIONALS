@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-01-01",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 137,
+  "content_markdown": "# \"Battle-Tested by Faith\"\n## Scripture\n\"For God gave us a spirit not of fear but of power and love and self-control.\" – 2 Timothy 1:7\n## Reflection\nAs warriors of Christ, we often face battles that test our faith, our strength, and our resolve. But it's in these moments that we discover the power of God at work within us. We don't have to be driven by fear, doubt, or anxiety. Instead, we can be fueled by the power of love and self-control. This is not about being fearless, but about being confident in our Lord's presence and provision. When we face challenges, we can trust that God is working through us, giving us the strength we need to overcome.\n\n## Daily Challenge\n\"Run 5 miles while committing each step to prayer and trusting God's guidance.\""
+}
