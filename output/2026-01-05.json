@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-01-05",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 158,
+  "content_markdown": "# Unbreakable Spirit\n## Scripture\n\"Consider it all joy, my brothers, when you encounter various trials, for you know that the testing of your faith produces steadfastness.\" – James 1:2-3\n## Reflection\nIn the midst of life's battles, it's easy to lose our grip on faith and let doubts creep in. However, God's Word reminds us that trials are an opportunity for our faith to be strengthened and our character to be refined. As warriors of Christ, we must remember that our faith is not a fragile thing, but an unbreakable spirit that can withstand any challenge. We must stand firm in our convictions, trusting that God is working all things together for our good (Romans 8:28). When the going gets tough, we must choose to see the trials as a chance to grow in our faith, rather than letting them break us.\n\n## Daily Challenge\n\"Run 1 mile while repeating the phrase 'I am unbreakable in Christ.'\""
+}
