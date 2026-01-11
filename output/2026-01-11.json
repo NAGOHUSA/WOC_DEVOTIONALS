@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-01-11",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 180,
+  "content_markdown": "# \"Face Your Fears with Faith\"\n## Scripture\n\"Do not fear, for I am with you; do not be frightened, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand.\" – Isaiah 41:10\n## Reflection\nAs men, we often face fears that seem insurmountable. We fear failure, rejection, and the unknown. But the Bible says that we are not alone in our fears. God promises to be with us, to strengthen us, and to help us. He is our rock, our shelter, and our guiding light. When we face our fears with faith, we can trust that God is working everything out for our good. He is our helper, our comforter, and our peace. So let's not let fear hold us back from pursuing our dreams and living out our purpose. Instead, let's face our fears with faith and trust that God is always with us.\n\n## Daily Challenge\n\"Do 25 squats while repeating Isaiah 41:10 to yourself, reminding yourself that God is with you and will strengthen you.\""
+}
