@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-01-23",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 155,
+  "content_markdown": "# Focused on the Goal\n\n## Scripture\n\"Let us run with perseverance the race marked out for us, fixing our eyes on Jesus, the pioneer and perfecter of faith.\" – Hebrews 12:2\n\n## Reflection\nAs men, we're often called to pursue multiple goals and priorities. We strive to be good husbands, fathers, friends, and sons. We aim to excel in our careers and serve our communities. While these goals are important, they can also be distractions from our ultimate purpose. The Bible reminds us to run with perseverance, focusing on Jesus as our example and our goal. He's the one who's perfected in faith, and He's the one we're striving to imitate. By keeping our eyes fixed on Him, we'll stay focused and motivated, even in the midst of challenges and setbacks.\n\n## Daily Challenge\nRun 1 mile while praying for endurance and perseverance, trusting that God will help you stay focused on your faith."
+}
