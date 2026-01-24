@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-01-24",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 201,
+  "content_markdown": "# Unshakeable Foundation\n## Scripture\n\"Unless the Lord builds the house, those who build it labor in vain. Unless the Lord watches over the city, the watchman stays alert in vain.\" – Psalm 127:1\n## Reflection\nAs men, we often strive to build our own strength and foundations. We work hard to achieve our goals, provide for our families, and protect our loved ones. But the truth is, without God's guidance and provision, our efforts are in vain. It's like trying to build a house on sand – it may look solid, but it's just waiting to be washed away by the storms of life. Jesus said, \"Everyone then who hears these words of mine and does them will be like a wise man who built his house on the rock. And the rain fell, and the floods came, and the winds blew and beat against the house, but it did not fall\" (Matthew 7:24-25). Let's build our lives on the unshakeable foundation of God's word and trust in His strength and guidance.\n## Daily Challenge\n\"Take five minutes to write down three things you're thankful for in your life, and pray for God to be the foundation of each one.\""
+}
