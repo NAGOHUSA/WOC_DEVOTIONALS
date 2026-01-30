@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-01-30",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 166,
+  "content_markdown": "# Unshakeable Foundations\n## Scripture\n\"Trust in the Lord with all your heart, and do not lean on your own understanding. In all your ways acknowledge him, and he will make straight your paths.\" – Proverbs 3:5-6\n## Reflection\nAs men, we often face challenges that make us question our decisions and faith. But the Bible reminds us that our foundation should be rooted in trust in God, not our own understanding. When we put our trust in Him, He guides us and makes our paths straight. This doesn't mean we won't face obstacles or make mistakes. But it means we can stand firm, even in the midst of uncertainty. We can be unshakeable, like a mountain that can't be moved. As we go through our day, let's remember that our trust in God is the rock that holds us steady.\n\n## Daily Challenge\n\"Run 5 miles today, then pray for God's guidance in all areas of your life, thanking Him for being your unshakeable foundation.\""
+}
