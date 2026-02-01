@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-02-01",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 161,
+  "content_markdown": "# Unwavering Resolve\n## Scripture\n\"We also glory in our sufferings, because we know that suffering produces perseverance; perseverance, character; and character, hope.\" - Romans 5:3-4\n## Reflection\nAs men, it's easy to fall into the trap of wavering in our faith. We're faced with trials and tests every day, and it's tempting to give up when things get tough. But the Bible tells us that it's in those moments of suffering that we're given the opportunity to persevere. Perseverance builds character, and character brings about hope. Hope is what gets us through the darkest of times. It's what keeps us going when everything seems lost. So, the next time you're faced with a challenge, remember that it's not the end. It's a chance to grow, to become stronger, and to develop the unwavering resolve that only comes from faith in God.\n\n## Daily Challenge\n\"Run 10 laps around the block while praying for the strength to persevere in your trials.\""
+}
