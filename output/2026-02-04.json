@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-02-04",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 146,
+  "content_markdown": "# Battle Ready: Arising in Faith\n## Scripture\n\"The Lord will fight for you, and you have only to be still.\" – Exodus 14:14\n## Reflection\nAs we rise to face another day, we're often met with uncertainty and challenges that test our faith. But the truth is, we're not alone. God is always with us, fighting on our behalf. Just like the Israelites in the book of Exodus, we're called to trust in His power and provision, even when the circumstances seem insurmountable. When we're tempted to take matters into our own hands, we must remember that God is the One who can bring victory and triumph. So let's arise in faith, knowing that our Heavenly Father is fighting for us.\n\n## Daily Challenge\nRun 5 laps around your house or apartment, praying for God's strength and protection to be upon you throughout the day."
+}
