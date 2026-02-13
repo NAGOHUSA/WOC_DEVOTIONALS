@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-02-13",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 157,
+  "content_markdown": "# The Unshakeable Foundation\n## Scripture\n\"But whoever denies me before men, I also will deny him before my Father who is in heaven.\" – Matthew 10:33\n## Reflection\nAs men, we often face pressures that can cause us to waver in our faith. We may be tempted to deny the Lord in order to fit in or gain acceptance from the world. But Jesus reminds us that our allegiance to Him must be unwavering. We must be unshakeable in our commitment to Him, even in the face of adversity. A foundation that is not built on the rock of Jesus Christ will crumble under the weight of the world's opinions. Let us choose to stand firm in our faith, not for our own sake, but for the sake of honoring the Lord and being a shining example to those around us.\n\n## Daily Challenge\n\"Recite Matthew 10:33 three times while declaring your commitment to the Lord.\""
+}
