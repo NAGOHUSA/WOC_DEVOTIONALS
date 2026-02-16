@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-02-16",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 140,
+  "content_markdown": "# Unwavering Resolve\n## Scripture\n\"I have fought the good fight, I have finished the course, I have kept the faith.\" – 2 Timothy 4:7\n## Reflection\nAs warriors of Christ, we're called to stand firm in our faith, even in the midst of adversity. Paul's words remind us that our battles aren't just about physical strength, but about spiritual resolve. We must be willing to stand firm, even when the world around us seems to be crumbling. This unwavering resolve is rooted in a deep trust in God's sovereignty and a commitment to living for Him. As we face the challenges of each day, let's remember that our strength comes not from ourselves, but from the One who is our Rock and our Refuge.\n\n## Daily Challenge\n\"Do 50 squats while declaring, 'I will stand firm in the Lord.'\""
+}
