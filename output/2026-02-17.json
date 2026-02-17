@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-02-17",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 135,
+  "content_markdown": "# Unbreakable Spirit\n## Scripture\n\"Count it all joy, my brothers, when you meet trials of various kinds,\" – James 1:2\n\n## Reflection\nLife can be tough, and it's easy to lose our footing when faced with challenges. But as men of God, we're called to be unbreakable, to stand firm in the midst of turmoil. It's in these moments that our faith is tested, and our character is refined. We can choose to let our circumstances consume us, or we can rise above them, knowing that we're not alone. We're part of a greater story, one that's bigger than our struggles. So, let's choose to see our trials as opportunities for growth, and let's rise up with an unbreakable spirit.\n\n## Daily Challenge\n\"Do 50 squats while praying for strength to carry your burdens.\""
+}
