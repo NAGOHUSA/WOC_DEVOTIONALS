@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-02-21",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 175,
+  "content_markdown": "# Steadfast in the Storm\n## Scripture\n\"Consider it all joy, my brothers, when you encounter various trials, for you know that the testing of your faith produces steadfastness.\" – James 1:2-3\n\n## Reflection\nLife is full of storms, and as men of faith, we face trials and tribulations that test our resolve and our trust in God. The question is, how do we respond? We can let the storms consume us, or we can choose to stand firm in our faith. James reminds us that trials are opportunities for growth and for building our character. Instead of resisting or complaining about the difficulties we face, we can choose to see them as a chance to develop our faith and become stronger in our walk with God. As we navigate the ups and downs of life, let us remember that God is always with us, working in us, and shaping us into the men He desires us to be.\n\n## Daily Challenge\n\"Do 10 deep breaths while repeating, 'God, I trust You with my life.'\""
+}
