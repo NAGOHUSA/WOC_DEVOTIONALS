@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-02-24",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 141,
+  "content_markdown": "# Unrelenting Faith\n\n## Scripture\n\"for God gave us a spirit not of fear but of power and love and self-control.\" – 2 Timothy 1:7\n\n## Reflection\nAs men, we often face challenges that require unrelenting faith in God. We're called to stand strong in the midst of adversity, trusting in His power and provision. The Bible reminds us that God has given us a spirit that enables us to live with power, love, and self-control. This doesn't mean we won't face fears or doubts, but it means we can overcome them by relying on God's strength. When we focus on His power and love, we're empowered to live with courage and confidence.\n\n## Daily Challenge\n\"Run 3 miles while repeating Psalm 23:4: 'Even though I walk through the darkest valley, I will fear no evil, for you are with me.'\""
+}
