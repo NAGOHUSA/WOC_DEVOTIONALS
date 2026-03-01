@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-03-01",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 168,
+  "content_markdown": "# \"Unwavering Resolve\"\n## Scripture\n\"Whatever you do, do your work heartily, as for the Lord rather than for men,\" – Colossians 3:23\n## Reflection\nAs warriors of Christ, we're called to live with unwavering resolve, unshakeable faith, and unrelenting passion for our Lord. We're not mere spectators, but active participants in the battles of life. Our work, our relationships, our very lives – everything should be done with a heart that beats for God. When we approach our tasks with this mindset, we're not just doing what's expected of us; we're serving a higher purpose. We're not just doing it for our boss or our family; we're doing it for the One who created us, redeemed us, and called us to greatness. As we rise to the challenges of each day, let us remember that our work is not just a means to a paycheck, but a way to glorify our Lord.\n\n## Daily Challenge\n\"Do 25 burpees while declaring that your work is for the Lord.\""
+}
