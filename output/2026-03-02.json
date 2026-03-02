@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-03-02",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 167,
+  "content_markdown": "# Unshakeable Foundations\n## Scripture\n\"Consider it all joy, my brothers, when you encounter various trials, for you know that the testing of your faith produces steadfastness. And let steadfastness have its full effect, that you may be perfect and complete, lacking in nothing.\" – James 1:2-4\n## Reflection\nLife is full of ups and downs, but as men of faith, we must learn to find joy in the midst of trials. It's easy to get discouraged when faced with difficulties, but the Bible reminds us that these challenges are an opportunity for our faith to grow. When we fix our eyes on Christ, we can find peace and stability even in the midst of turmoil. So, the next time you face a trial, remember that it's not a sign of weakness, but a sign of strength – a chance for your faith to be tested and refined.\n\n## Daily Challenge\n\"Run 1 mile while recalling the trials you've faced and how your faith has grown stronger.\""
+}
