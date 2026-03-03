@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-03-03",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 174,
+  "content_markdown": "# Unshakeable Foundations\n## Scripture\n\"Unless the Lord builds the house, those who build it labor in vain. Unless the Lord watches over the city, the watchman stays awake in vain.\" – Psalm 127:1\n## Reflection\nAs men, we often put our faith in our own strength and abilities, trying to build our lives and families on shaky ground. But the Bible reminds us that true success and stability come from the Lord. When we put our trust in Him, we can rest in the knowledge that He is our rock and our protector. We don't have to be anxious about our futures or worry about the unknown, because we know that God is always working behind the scenes to bring about His good plans for us. This foundation of faith gives us the strength and confidence to face whatever challenges come our way.\n## Daily Challenge\n\"Take 5 minutes to write down 3 things you're trusting God for today, and then pray over them, asking Him to build your life on unshakeable foundations.\""
+}
