@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-03-04",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 177,
+  "content_markdown": "# Unshakeable Faith\n## Scripture\n\"He kept count of the stars - He gave a name to each. Lovely in his beauty, God is gracious and gives comfort.\" - Psalm 147:4-5\n## Reflection\nAs men, we often find ourselves in situations where our faith is shaken. The world around us is constantly changing, and it's easy to lose our footing. But God's Word reminds us that He is the unshakeable One. He is the Creator who keeps count of the stars and gives a name to each one. He is the One who is lovely in His beauty and gracious in His comfort.\n\nIn times of uncertainty, let us remember that our faith is not rooted in our circumstances, but in the character of God. He is faithful, loving, and true. And when we put our trust in Him, we can stand firm, even in the midst of chaos.\n\n## Daily Challenge\n\"Take a minute to recite Psalm 147:4-5 out loud, and then pray for God to give you a deeper understanding of His character and faithfulness.\""
+}
