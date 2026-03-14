@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-03-14",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 155,
+  "content_markdown": "# Unshakeable Faith\n## Scripture\n\"Let us hold fast the confession of our hope without wavering, for he who promised is faithful.\" – Hebrews 10:23\n## Reflection\nAs warriors of Christ, we face various challenges and uncertainties in life. It's easy to waver and lose our footing when the storms of life hit. But Hebrews 10:23 reminds us that our faith should be unshakeable. We must hold fast to the confession of our hope, trusting in the faithfulness of God. This doesn't mean we won't face difficulties, but it means we can face them with confidence, knowing that God is always with us. Let us be people of unwavering faith, people who trust in the promises of God, even when the circumstances around us seem uncertain.\n\n## Daily Challenge\n\"Run 1 mile while praying for someone you know who is struggling with faith. Ask God to give them the strength and courage to stand firm.\""
+}
