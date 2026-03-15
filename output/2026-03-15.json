@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-03-15",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 157,
+  "content_markdown": "# Overcoming the Darkness\n## Scripture\n\"For God has not given us a spirit of fear, but of power and of love and of a sound mind.\" – 2 Timothy 1:7\n## Reflection\nAs men, we often face challenges that can leave us feeling overwhelmed, anxious, and fearful. But the Bible reminds us that we don't have to live in the darkness of fear and doubt. Instead, we have the power of God's Spirit living within us, giving us strength, love, and a clear mind to face whatever comes our way. When we feel like we're stuck in the darkness, we need to remember that God is always with us, and He has given us everything we need to overcome our fears and doubts. We just need to trust in Him and His power.\n\n## Daily Challenge\n\"Take a 5-minute walk outside and pray for God's strength and peace to overcome any fear or anxiety you're facing.\""
+}
