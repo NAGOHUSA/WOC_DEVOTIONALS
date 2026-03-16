@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-03-16",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 167,
+  "content_markdown": "# \"Unwavering Resolve\"\n## Scripture\n\"Have I not commanded you? Be strong and courageous. Do not be frightened, and do not be dismayed, for the Lord your God is with you wherever you go.\" – Joshua 1:9\n## Reflection\nAs men of God, we face numerous challenges and obstacles in life. We may feel overwhelmed, uncertain, or even scared. But God's word reminds us of the importance of having unwavering resolve in our faith. We are called to be strong and courageous, not for our own strength, but because God is with us. When we put our trust in Him, we can face any situation with confidence. We don't have to be controlled by fear or doubt, but instead, we can walk in the peace and assurance that comes from knowing God's presence. Let us remember that our strength comes not from ourselves, but from the Lord who dwells within us.\n\n## Daily Challenge\n\"Run 5 miles while repeating 'I am strong because God is with me.'\""
+}
