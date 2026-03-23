@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-03-23",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 155,
+  "content_markdown": "# Unshakeable Foundations\n## Scripture\n\"Consider it all joy, my brothers, when you fall into various trials, knowing that the testing of your faith produces steadfastness.\" – James 1:2-3\n## Reflection\nAs men, we often face trials and challenges that test our faith. It's easy to get discouraged and lose our footing, but the Bible reminds us that these difficulties are actually opportunities for growth and strengthening. When we face hardships, we have a choice: we can let them shake our foundations or we can use them as a chance to build our faith and become stronger. Remember that your faith is not in your circumstances, but in the unshakeable rock of God's presence and power.\n\n## Daily Challenge\nDo 10 jumping jacks while thanking God for the opportunity to build your faith, and then take a moment to journal about a time when you faced a trial and how God helped you through it."
+}
