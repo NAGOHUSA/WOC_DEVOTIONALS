@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-03-24",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 174,
+  "content_markdown": "# \"Unshakeable in the Storm\"\n## Scripture\n\"So we can confidently say, 'The Lord is my helper; I will not fear; what can man do to me?'\" – Hebrews 13:6\n\n## Reflection\nAs men, we face many challenges in life. We face financial struggles, marital stress, and career pressures, to name a few. In the midst of these struggles, we can easily lose our footing and doubt our ability to overcome. But the Bible reminds us that we don't have to fear what others can do to us because we have a Heavenly Father who is our Rock, our Refuge, and our Helper. Jesus promised that He would never leave us nor forsake us (Hebrews 13:5). In the midst of the storm, we can stand firm, unshakeable, and confident in His presence.\n\n## Daily Challenge\nSpend 5 minutes in silence, praying to God, and declaring His presence in your life, saying, \"Lord, I trust You. You are my Rock, my Refuge, and my Helper. I will not fear what man can do to me.\""
+}
