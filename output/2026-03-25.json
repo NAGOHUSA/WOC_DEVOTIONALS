@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-03-25",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 175,
+  "content_markdown": "# Unbroken\n## Scripture\n\"Do not be conformed to the world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect.\" – Romans 12:2\n\n## Reflection\nAs men, we face countless challenges that can wear us down and test our faith. But we don't have to be defined by these circumstances. We can choose to be transformed by the power of God, to renew our minds and seek His will. This isn't a one-time decision; it's a daily choice to resist the pull of the world and instead align ourselves with God's perfect plan.\n\nUnbroken men don't let their circumstances break them. They rise above, using their struggles as opportunities to grow stronger and more like Jesus. They know that their worth and identity aren't found in their external circumstances, but in their relationship with their Heavenly Father.\n\n## Daily Challenge\n\"Do 15 burpees, then take 10 minutes to pray and seek God's will for your day.\""
+}
