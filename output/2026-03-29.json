@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-03-29",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 183,
+  "content_markdown": "# \"Unshakeable Confidence\"\n## Scripture\n\"Have I not commanded you? Be strong and courageous. Do not be frightened, and do not be dismayed, for the Lord your God is with you wherever you go.\" – Joshua 1:9\n## Reflection\nAs men, we often face challenges that test our resolve and confidence. We may feel overwhelmed, uncertain, or even fearful. But God has spoken to us through Joshua, reminding us that He is with us, always. When we walk with Him, we can face any obstacle with unshakeable confidence. This confidence doesn't come from our own strength or abilities, but from the knowledge that God is with us. As we walk in faith, we can trust that He will guide us, protect us, and give us the strength we need to overcome any challenge. So, let us remember that we are not alone, and that God's presence is our greatest source of strength and confidence.\n\n## Daily Challenge\n\"Write down three areas where you feel uncertain or fearful. Then, take a moment to pray, reminding God that you trust in His presence and power.\""
+}
