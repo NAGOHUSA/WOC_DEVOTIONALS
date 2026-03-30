@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-03-30",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 206,
+  "content_markdown": "# \"Stand Firm in the Face of Adversity\"\n## Scripture\n\"Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect.\" – Romans 12:2\n\n## Reflection\nAs warriors of Christ, we are often faced with adversity and challenges that test our resolve and faith. The world around us is constantly trying to conform us to its standards, to make us fit in and blend in. But as followers of Christ, we are called to be different, to stand firm in our convictions and to be transformed by the renewing power of the Holy Spirit. This transformation is not just a one-time event, but a daily process that requires us to be intentional about renewing our minds and testing our will against the will of God. As we do this, we will become more discerning, more able to distinguish between what is good, acceptable, and perfect in God's eyes.\n\n## Daily Challenge\n\"Take 10 minutes to write down three areas where you feel the world is trying to conform you. Then, ask God to renew your mind and transform you in those areas.\""
+}
