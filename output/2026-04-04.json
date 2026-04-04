@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-04-04",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 171,
+  "content_markdown": "# Unshakeable Faith\n\n## Scripture\n\"Consider it all joy, my brothers, when you encounter various trials, for you know that the testing of your faith produces steadfastness.\" – James 1:2-3\n\n## Reflection\nAs warriors of Christ, we face many challenges in life that can shake our faith. It's easy to lose our footing and become discouraged when we encounter trials and setbacks. But James reminds us that these difficulties are opportunities for us to grow in our faith and become stronger. When we face adversity, we can choose to view it as a cause for despair or as a chance to develop our trust in God. We can rise above our struggles by focusing on the promises of Scripture and the character of our faithful God. Let us not be afraid of the unknown, but instead, let us stand firm in our conviction that God is always with us.\n\n## Daily Challenge\n\"Go for a 30-minute run while meditating on a Bible verse that reminds you of God's presence and strength.\""
+}
