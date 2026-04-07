@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-04-07",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 164,
+  "content_markdown": "# Unshakeable Faith\n## Scripture\n\"So we do not lose heart. Though our outer self is wasting away, our inner self is being renewed day by day.\" – 2 Corinthians 4:16\n\n## Reflection\nAs warriors of Christ, we face battles every day that test our faith and our resolve. We're bombarded with negativity, doubt, and fear, which can make us feel unshakeable. But the Bible reminds us that even in the midst of adversity, our inner selves are being renewed day by day. This is a promise that God is working in us, even when we can't see it. So we don't lose heart; we press on, knowing that our faith is being strengthened and renewed. We're not just fighting for ourselves; we're fighting for the kingdom of God.\n\n## Daily Challenge\n\"Take 10 deep breaths and repeat Romans 8:28, 'And we know that for those who love God all things work together for good, for those who are called according to his purpose.'\""
+}
