@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-04-11",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 160,
+  "content_markdown": "# Battle-Tested Faith\n## Scripture\n\"Count it all joy, my brothers, when you meet trials of various kinds, for you know that the testing of your faith produces steadfastness.\" – James 1:2-3\n\n## Reflection\nAs men of faith, we often face trials and challenges that can test our resolve and our trust in God. It's easy to lose heart and give up when we're faced with opposition or adversity. But the Bible tells us to count it all joy when we meet these trials. This doesn't mean that we're happy about the situation itself, but rather that we trust in God's sovereignty and goodness. When we face trials, we have the opportunity to grow in our faith and to become more like Christ. Let's not be discouraged by the challenges of life, but instead, let's see them as opportunities to deepen our relationship with God.\n\n## Daily Challenge\n\"Run 1 mile while praising God for His faithfulness in your life.\""
+}
