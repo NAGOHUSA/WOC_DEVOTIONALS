@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-04-20",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 156,
+  "content_markdown": "# Stand Firm Against the Storm\n## Scripture\n\"Consider it all joy, my brothers, when you encounter various trials, for you know that the testing of your faith produces steadfastness.\" – James 1:2-3\n## Reflection\nAs men, we often face challenges that test our resolve and faith. We may feel overwhelmed by the storms of life, but the Bible reminds us that these trials can be a catalyst for growth and strength. When we encounter difficult situations, we have a choice: we can let them break us, or we can use them as opportunities to draw closer to God. By choosing to trust in Him, we can emerge from the storm stronger and more resilient than before. Remember, trials are not a sign of failure, but a sign that we are being refined and prepared for the battles ahead.\n\n## Daily Challenge\n\"Do 25 burpees while remembering that God's strength is made perfect in your weaknesses.\""
+}
