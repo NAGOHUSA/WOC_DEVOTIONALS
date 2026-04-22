@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-04-22",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 162,
+  "content_markdown": "# \"Warriors of the Word\"\n## Scripture\n\"Trust in the Lord with all your heart, and do not lean on your own understanding. In all your ways acknowledge him, and he will make straight your paths.\" – Proverbs 3:5-6\n\n## Reflection\nAs men, we often face uncertainty and make decisions without fully trusting in God's plan. However, Proverbs 3:5-6 reminds us to put our faith in Him and acknowledge His sovereignty in every aspect of our lives. This doesn't mean we won't struggle with doubts or uncertainties, but it means we must choose to trust Him above our own understanding. When we do, we can be confident that He will guide us through the twists and turns of life. Let's seek to trust God more deeply today, even when it's hard.\n\n## Daily Challenge\n\"Write down one area of your life where you're struggling to trust God and then pray a prayer of surrender, asking Him to guide you through that challenge.\""
+}
