@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-04-25",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 154,
+  "content_markdown": "# Overcoming Fear and Doubt\n## Scripture\n\"Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.\" – Philippians 4:6\n\n## Reflection\nAs men, we often face situations that test our faith and push us to our limits. It's easy to give in to fear and doubt, but the Bible reminds us that we don't have to be controlled by these emotions. Instead, we can bring our concerns to God in prayer, thank Him for His presence and power, and trust that He will guide us through even the most challenging times. This doesn't mean that our problems will disappear, but it means that we can face them with confidence and peace, knowing that God is with us.\n\n## Daily Challenge\n\"Take 5 minutes to write down your worries and fears, then pray over each one, thanking God for His sovereignty and provision.\""
+}
