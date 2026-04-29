@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-04-29",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 185,
+  "content_markdown": "# Unwavering Resolve\n## Scripture\n\"Consider it all joy, my brothers, when you encounter various trials, for you know that the testing of your faith produces steadfastness.\" – James 1:2-3\n## Reflection\nAs warriors of Christ, we often face trials and tribulations that test our resolve. It's in these moments that we're tempted to lose our faith or become disillusioned with the journey. But the Apostle James reminds us that trials are an opportunity for growth and development. When we face challenges, we can choose to focus on the difficulties or we can see them as a chance to become stronger, more resilient, and more steadfast in our faith.\n\nIn the midst of uncertainty, we can hold onto the promise that God is with us and that He is working everything out for our good (Romans 8:28). We can trust that the trials we face are not a sign of God's absence, but rather a sign of His presence, guiding us and refining us for the battles ahead.\n\n## Daily Challenge\n\"Run 5 miles while declaring out loud the promises of God over your life.\""
+}
