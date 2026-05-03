@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-05-03",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 160,
+  "content_markdown": "# Unwavering Faith in the Face of Adversity\n## Scripture\n\"For God gave us a spirit not of fear but of power and love and self-control.\" – 2 Timothy 1:7\n## Reflection\nAs men, we're often faced with challenges that test our resolve and faith. Whether it's a difficult work situation, a strained relationship, or a personal struggle, it's easy to feel overwhelmed and unsure of how to respond. But the Bible reminds us that we have a spirit of power and love, not of fear. This means we don't have to be controlled by anxiety or doubt. Instead, we can draw on the power of God to face our challenges with confidence and courage. When we trust in God's sovereignty and goodness, we can stand firm in the midst of adversity, knowing that He is with us and will see us through.\n\n## Daily Challenge\n\"Do 10 rounds of burpees while declaring your trust in God's power and love.\""
+}
