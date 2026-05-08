@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-05-08",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 160,
+  "content_markdown": "# Unshakable Faith\n## Scripture\n\"But now thus says the Lord, he who created you, O Jacob, he who formed you, O Israel: Do not fear, for I have redeemed you; I have called you by name, you are mine.\" – Isaiah 43:1\n## Reflection\nAs men, we face various challenges and uncertainties in life. We may struggle with feelings of doubt, fear, or insecurity. But as believers, we have the promise of an unshakable faith that comes from knowing our identity in Christ. We are not our own, but are called and redeemed by our heavenly Father. This truth gives us the strength to face any obstacle, to trust in His sovereignty, and to stand firm in our faith. When we remember that we are His, we can stand unwavering in the midst of turmoil.\n\n## Daily Challenge\nStand up, look in the mirror, and boldly declare, \"I am a child of God, and nothing can shake my faith!\""
+}
