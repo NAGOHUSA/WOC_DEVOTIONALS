@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-05-11",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 172,
+  "content_markdown": "# \"Unshakable Resolve\"\n## Scripture\n\"Have I not commanded you? Be strong and courageous. Do not be frightened, and do not be dismayed, for the Lord your God is with you wherever you go.\" – Joshua 1:9\n\n## Reflection\nAs warriors of Christ, we face numerous battles and challenges in our lives. It's easy to feel discouraged and lose our resolve when things don't go as planned. But the Word reminds us that with God on our side, we can face anything. Joshua was given a daunting task – to lead the Israelites into the Promised Land – but God's promise to be with him gave him the strength and courage to persevere. We too can draw on this same promise when we feel overwhelmed. Let's fix our eyes on the Lord and remember that He is always with us, guiding and empowering us to stand strong in the face of adversity.\n\n## Daily Challenge\n\"Stand for 30 seconds in a plank position, focusing on God's presence and power in your life.\""
+}
