@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-05-13",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 170,
+  "content_markdown": "# Unshakeable Foundations\n## Scripture\n\"Unless the Lord builds the house, those who build it labor in vain. Unless the Lord watches over the city, the watchman stays awake in vain.\" – Psalm 127:1\n## Reflection\nAs men, we often strive to build our lives, careers, and families on our own strength and abilities. But the truth is, without the Lord's guidance and provision, our efforts will ultimately be in vain. We must recognize that our strength is not in our own power, but in the power of Christ. Psalm 127 reminds us that our true security and stability come from recognizing the Lord as the builder and protector of our lives. Let us not rely on our own abilities, but instead, seek to build our lives on the unshakeable foundations of faith and trust in God.\n\n## Daily Challenge\n\"Take a moment to pray and ask the Lord to build your life and family on His unshakeable foundations. Do 10 squats while thanking God for His strength and provision.\""
+}
