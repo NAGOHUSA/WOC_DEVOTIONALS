@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-05-24",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 153,
+  "content_markdown": "# \"Strengthened by Our Savior\"\n## Scripture\n\"He gives power to the faint, and to him who has no might he increases strength.\" – Isaiah 40:29\n\n## Reflection\nAs men, we often feel the weight of our responsibilities, and our strength can feel depleted. We may feel like we're barely holding on, and our energy is dwindling. But the Bible reminds us that our strength doesn't come from within; it comes from a source that's greater than ourselves. Our Savior gives power to the faint, and He increases strength in those who have none. This means that when we're at our weakest, we can still be strengthened by God's mighty power. We don't have to rely on our own strength or willpower; we can rely on the strength of our Savior to carry us through.\n\n## Daily Challenge\n\"Stand up and lift 50 pounds while praying for God's strength to carry your burdens.\""
+}
