@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-05-27",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 158,
+  "content_markdown": "# Unwavering Resolve\n## Scripture\n\"For God gave us a spirit not of fear but of power and love and self-control.\" – 2 Timothy 1:7\n## Reflection\nIn times of uncertainty and turmoil, it's easy to let fear grip our hearts. But as warriors of Christ, we must not be controlled by fear. Instead, we must draw upon the power that God has given us. This power is not just for grand, heroic acts, but for the everyday moments when we face our fears and doubts. It's the power to love others, even when they're difficult to love. It's the power to control our emotions and reactions, choosing to respond with kindness and compassion. Let's not be swayed by the winds of fear, but stand firm in the power of God's Spirit.\n\n## Daily Challenge\n\"Do 20 mountain climbers while declaring your reliance on God's power and love. Repeat 'I am strong in God's power' with each rep.\""
+}
