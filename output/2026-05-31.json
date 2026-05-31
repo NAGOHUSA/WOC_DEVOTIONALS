@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-05-31",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 184,
+  "content_markdown": "# Unwavering Resolve\n## Scripture\n\"We also glory in our sufferings, because we know that suffering produces perseverance; perseverance, character; and character, hope.\" – Romans 5:3-4\n## Reflection\nAs men, we face numerous challenges in our daily lives, from work and family pressures to spiritual attacks and personal struggles. It's easy to give up when the road ahead seems uncertain or the weight of our responsibilities feels overwhelming. But it's in these moments that we're called to draw upon a deeper resolve, one rooted in our faith and trust in God.\n\nJesus Himself faced unimaginable suffering on the cross, yet even in the midst of His darkest hour, He remained steadfast in His commitment to His mission. We, too, can find the strength to persevere when we fix our eyes on Jesus and His unwavering resolve.\n\nMay we, like the apostle Paul, glory in our sufferings, knowing that they produce perseverance, character, and ultimately, hope. May our resolve be unshakeable, even in the face of adversity.\n## Daily Challenge\n\"Do 50 burpees while praying for the strength to persevere in the face of adversity.\""
+}
