@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-06-05",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 179,
+  "content_markdown": "# Unshakeable Faith\n## Scripture\n\"Consider it all joy, my brothers, when you encounter various trials, for you know that the testing of your faith produces steadfastness.\" – James 1:2-3\n\n## Reflection\nAs warriors of Christ, we often face trials and tribulations that test our resolve and faith. It's in these moments that we must choose to see the trials not as obstacles, but as opportunities to grow and mature in our walk with God. The Bible reminds us that when we face various trials, we should consider it all joy. This may seem counterintuitive, but the key is to see the trials as a chance to strengthen our faith and become more like Christ. Just as a rock is polished by the constant flow of water, our faith is refined and strengthened by the trials we face. So, the next time you encounter a difficult situation, remember that it's an opportunity to grow and become more like our Savior.\n\n## Daily Challenge\n\"Run 5 miles while praying for God to strengthen your faith in the midst of trials.\""
+}
