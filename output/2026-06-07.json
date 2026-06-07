@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-06-07",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 164,
+  "content_markdown": "# Unshaken in the Storm\n## Scripture\n\"Consider it all joy, my brothers, when you encounter various trials, for you know that the testing of your faith produces steadfastness.\" – James 1:2-3\n\n## Reflection\nAs men of faith, we know that life is full of ups and downs, twists and turns. We'll face trials and tribulations that test our resolve, our character, and our trust in God. But instead of being shaken or discouraged, we can choose to see these challenges as opportunities for growth and strengthening. James reminds us to consider it all joy when we encounter difficulties. This doesn't mean we'll be happy about the pain or the struggle, but we can be joyful in the midst of it because we know that God is refining us, making us more like Christ. When the storms of life come, let's stand firm, trusting in God's goodness and sovereignty.\n\n## Daily Challenge\n\"Sprint 400 meters while praying for the strength to endure life's trials.\""
+}
