@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-06-08",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 156,
+  "content_markdown": "# Unshaken in the Storm\n## Scripture\n\"Consider it all joy, my brothers, when you fall into various trials, because you know that the testing of your faith produces steadfastness.\" – James 1:2-3\n\n## Reflection\nAs men, we face various challenges in our lives – financial struggles, relationship difficulties, health issues, and career uncertainties. It's natural to feel overwhelmed and shaken by these storms. However, we must remember that our faith is not built on the calm seas of life but on the unshakeable rock of Christ. James encourages us to consider trials as opportunities for growth, not as reasons to lose hope. When we put our trust in God, we can face any storm with confidence, knowing that our faith will produce steadfastness and help us rise above the challenges.\n\n## Daily Challenge\n\"Take 10 minutes to write down three areas where you're struggling, and then pray for God's guidance and strength to overcome them.\""
+}
