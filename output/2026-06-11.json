@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-06-11",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 139,
+  "content_markdown": "# Unwavering Resolve\n## Scripture\n\"Consider it all joy, my brothers, when you fall into various trials, knowing that the testing of your faith produces endurance.\" – James 1:2-3\n## Reflection\nAs men, we face numerous challenges in life that can shake our resolve and test our faith. But the Bible encourages us to view these trials as opportunities to grow and become stronger in our relationship with Christ. Just like a warrior in battle, we must be willing to face adversity head-on, trusting that God is working in us to produce endurance and a deeper faith. This unwavering resolve is essential for standing firm in the midst of life's storms and for being a source of encouragement to those around us.\n\n## Daily Challenge\nRun 1 mile while praying for the strength to face trials with unwavering resolve."
+}
