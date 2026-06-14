@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-06-14",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 160,
+  "content_markdown": "# Steadfast in the Storm\n## Scripture\n\"Consider it all joy, my brothers, when you encounter various trials, for you know that the testing of your faith produces steadfastness.\" – James 1:2-3\n\n## Reflection\nAs men, we often face challenges that test our resolve and faith. It's easy to get discouraged and lose sight of our purpose when storms rage around us. But James reminds us that trials are opportunities to develop steadfastness – a quality that allows us to stand firm in the face of adversity. When we face difficulties, we have two choices: we can give up or we can draw closer to God. By choosing the latter, we allow the trials to refine our character and strengthen our faith. This steadfastness is essential for the warrior of Christ, as it enables us to persevere in the midst of turmoil and emerge victorious.\n\n## Daily Challenge\n\"Do 20 jumping jacks while praying for the strength to endure trials.\""
+}
