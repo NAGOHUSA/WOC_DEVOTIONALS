@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-06-18",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 141,
+  "content_markdown": "# \"Unwavering Resolve\"\n## Scripture\n\"Consider it all joy, my brothers, when you encounter various trials, for you know that the testing of your faith produces steadfastness.\" – James 1:2-3\n## Reflection\nAs men of faith, we often face trials and challenges that test our resolve and commitment to Christ. It's easy to give up when things get tough, but the Bible reminds us that our faith is being refined in the fire. We can choose to view these trials as opportunities for growth and strengthening of our faith. Just like a warrior is tempered in battle, our faith is tempered in the midst of adversity. We must stand firm and unwavering in our resolve to follow Christ, even when the road ahead seems uncertain.\n\n## Daily Challenge\n\"Run 3 miles while praying for God to give you strength and endurance.\""
+}
