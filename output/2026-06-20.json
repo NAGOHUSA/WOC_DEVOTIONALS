@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-06-20",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 156,
+  "content_markdown": "# Unwavering Commitment\n## Scripture\n\"Commit your work to the Lord, and your plans will be established.\" – Proverbs 16:3\n## Reflection\nAs men, we often find ourselves torn between our commitments and goals. We may feel the weight of responsibility, whether it's our careers, families, or personal ambitions. But it's in those moments of uncertainty that we must remember to commit our work to the Lord. This doesn't mean we become passive or lack effort, but rather that we recognize our limitations and trust in God's sovereignty. When we commit our work to Him, we can rest assured that our plans will be established, and His purpose will be accomplished through us. This is a call to trust, faith, and obedience.\n## Daily Challenge\n\"Write down three areas in your life where you've been struggling to commit. Pray over each one, asking God to establish your plans and give you wisdom to see them through.\""
+}
