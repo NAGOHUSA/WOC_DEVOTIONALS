@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-06-23",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 200,
+  "content_markdown": "# Unshakeable Faith\n## Scripture\n\"Everyone then who hears these words of mine and does them will be like a wise man who built his house on the rock. And the rain fell, and the floods came, and the winds blew and beat on that house, but it did not fall, because it had been founded on the rock.\" – Matthew 7:24-25\n## Reflection\nIn today's world, we are constantly bombarded with challenging circumstances, doubts, and fears. It's easy to get shaken and lose our footing. But as Christians, we are called to be unshakeable, just like the foundation of a house built on rock. We can achieve this by anchoring our lives in the unchanging Word of God. When we meditate on Scripture, we build our faith on the solid rock of Jesus Christ. This foundation will withstand any storm that comes our way, and we will emerge stronger and more resilient. So, let's make a conscious effort to prioritize Bible study and prayer in our daily lives, just as a builder prioritizes a strong foundation for a house.\n## Daily Challenge\n\"Run 5 miles today, then take time to reflect on the promises of God in your life.\""
+}
