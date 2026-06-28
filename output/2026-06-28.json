@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-06-28",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 162,
+  "content_markdown": "# Stand Firm in the Storm\n## Scripture\n\"Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.\" – Philippians 4:6\n## Reflection\nAs men, we often face storms in life that can knock us off balance. It's easy to get caught up in anxiety and worry, but God calls us to stand firm in every situation. In Philippians 4:6, the Apostle Paul reminds us to present our requests to God with thanksgiving. This doesn't mean that our problems will go away, but it means that we can face them with confidence and peace. When we pray with thanksgiving, we're not just asking God to solve our problems, we're also acknowledging His goodness and sovereignty in our lives. This helps us to trust Him more and stand firm in the midst of the storm.\n\n## Daily Challenge\n\"Write down three things you're thankful for today and pray for them with thanksgiving.\""
+}
