@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-06-29",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 136,
+  "content_markdown": "# Unshakeable Faith\n## Scripture\n\"Trust in him at all times, O people; pour out your heart to him; God is a refuge for us.\" – Psalm 62:8\n## Reflection\nAs warriors of Christ, we face numerous challenges in our daily lives. We may feel shaken by the trials we encounter, but God's Word reminds us that He is our rock and our refuge. We can trust Him at all times, no matter what circumstances we face. When we pour out our hearts to Him, He provides us with the strength and peace we need to overcome any obstacle. Let us not be shaken by the world's turmoil but instead stand firm in our faith, knowing that God is our unshakeable foundation.\n\n## Daily Challenge\n\"Run a mile while praying for God to give you endurance.\""
+}
