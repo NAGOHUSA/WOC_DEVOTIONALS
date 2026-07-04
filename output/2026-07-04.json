@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-07-04",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 175,
+  "content_markdown": "# \"Warrior's Resolve\"\n## Scripture\n\"But he said to me, 'My grace is sufficient for you, for my power is made perfect in weakness.'\" – 2 Corinthians 12:9\n\n## Reflection\nAs men, we're often faced with challenges that test our resolve, our faith, and our strength. We may feel overwhelmed, inadequate, or uncertain about how to press on. But the Apostle Paul reminds us that God's power is made perfect in our weakness. This means that our limitations, our failures, and our struggles are not a reason to give up, but rather an opportunity for God to demonstrate His strength and power in us.\n\nWhen we're weak, we're more dependent on God, and that's when His power is most evident. So, instead of trying to be strong in our own strength, let's learn to lean on God's strength. Let's surrender our weaknesses to Him and trust that He will make us strong in the face of adversity.\n\n## Daily Challenge\n\"Do 20 burpees while praying for God's power to be made perfect in your weakness.\""
+}
