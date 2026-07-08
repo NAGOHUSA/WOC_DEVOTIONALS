@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-07-08",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 202,
+  "content_markdown": "# \"Shield of Faith\"\n## Scripture\n\"For God gave us a spirit not of fear but of power and love and self-control.\" – 2 Timothy 1:7\n## Reflection\nAs warriors of Christ, we are often called to face challenges that can evoke fear and uncertainty. But as we walk in faith, we are reminded that we are not given a spirit of fear, but of power, love, and self-control. This spirit is the result of God's presence in our lives and is what enables us to stand strong in the face of adversity.\n\nIn 2 Timothy 1:7, the Apostle Paul encourages Timothy to remember that he has been given a spirit of power, not of fear. This is a reminder that we are not alone in our battles, and that God's power is always available to us. As we face our own challenges, let us remember to rely on the power of the Holy Spirit, rather than our own strength. This is what will empower us to stand firm and to be a shield of faith for those around us.\n\n## Daily Challenge\n\"Run 10 sprints, each one a reminder that God's power is available to you in your times of need.\""
+}
