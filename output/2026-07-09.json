@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-07-09",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 152,
+  "content_markdown": "# \"Victory Through Surrender\"\n## Scripture\n\"For those who exalt themselves will be humbled, and those who humble themselves will be exalted.\" – Matthew 23:12\n\n## Reflection\nAs men, we often struggle with pride and a desire to control our lives. We want to be the ones in charge, making all the decisions and dictating the outcome. But the truth is, true strength and victory come not from our own efforts, but from surrendering to God. When we humble ourselves and acknowledge our dependence on Him, we open ourselves up to His power and guidance. This is not a sign of weakness, but of wisdom. By surrendering our pride and our need for control, we can experience the true victory that comes from living a life surrendered to Christ.\n\n## Daily Challenge\n\"Take 30 seconds to pray, acknowledging your dependence on God and asking for His guidance and strength in your life.\""
+}
