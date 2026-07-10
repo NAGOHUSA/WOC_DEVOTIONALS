@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-07-10",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 167,
+  "content_markdown": "# Stand Firm in the Storm\n## Scripture\n\"For God did not give us a spirit of fear, but of power and of love and of a sound mind.\" – 2 Timothy 1:7\n## Reflection\nAs warriors of Christ, we face many challenges and trials in life. It's easy to get caught up in fear and anxiety, but God has given us a different spirit. He has given us power, love, and a sound mind to help us navigate the storms we face. This doesn't mean we won't experience fear or uncertainty, but it means we can face these challenges with confidence and trust in God. When the winds of adversity blow, we can stand firm, knowing that God is with us and will see us through. Let's remember that our strength comes not from ourselves, but from God, who is our rock and our refuge.\n\n## Daily Challenge\n\"Do 10 burpees while declaring, 'I am strong in the Lord and in the power of His might.'\""
+}
