@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-07-11",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 157,
+  "content_markdown": "# The Warrior's Heart\n## Scripture\n\"For God did not give us a spirit of fear, but of power and of love and of a sound mind.\" – 2 Timothy 1:7\n\n## Reflection\nAs warriors of Christ, we are often called to face challenges that test our courage and resolve. But the Bible reminds us that we are not given a spirit of fear, but of power, love, and a sound mind. This means that we have the strength and ability within us to face whatever comes our way. We don't have to be controlled by fear, but by the power of God's love and presence in our lives. So today, take a moment to reflect on the battles that you're facing. Ask God to give you the courage and strength to overcome them, and to guide you with a sound mind.\n\n## Daily Challenge\n\"Do 20 squats while declaring your trust in God's power and love.\""
+}
