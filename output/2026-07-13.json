@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-07-13",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 149,
+  "content_markdown": "# Fueled for the Fight\n## Scripture\n\"So I do not run aimlessly; I do not box as one beating the air.\" – 1 Corinthians 9:26\n## Reflection\nAs men, we're often called to engage in battles that test our strength, endurance, and resolve. In a world filled with distractions and temptations, it's easy to lose focus and energy. But as followers of Christ, we have a source of power that fuels us for the fight. We must not be like those who run aimlessly, lacking direction or purpose. Instead, we must be intentional and focused, using our gifts and talents to serve the Lord and advance His kingdom. As we walk by faith, we'll find that our energy and motivation come from the living God, not from our own strength or willpower.\n\n## Daily Challenge\n\"Do 50 burpees while praying for the strength to stay focused on Jesus.\""
+}
