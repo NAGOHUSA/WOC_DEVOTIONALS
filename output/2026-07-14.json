@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-07-14",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 201,
+  "content_markdown": "# Unwavering Resolve\n## Scripture\n\"Consider it all joy, my brothers, when you encounter various trials, for you know that the testing of your faith produces steadfastness. And let steadfastness have its full effect, that you may be perfect and complete, lacking in nothing.\" – James 1:2-4\n\n## Reflection\nAs men, we're often faced with challenges that test our resolve and push us to our limits. But it's in these moments that we discover the true strength of our faith. James reminds us that trials are not something to be feared, but rather seen as opportunities to grow and become more like Christ. When we face difficulties, we must choose to stand firm, trusting that God is working in us to produce a deeper, more unshakeable faith. This unwavering resolve is not born of our own strength, but of the power of the Holy Spirit working within us. As we walk through the fire, let's remember that we're not alone, and that God is using these trials to refine us and make us more like His Son.\n\n## Daily Challenge\n\"Stand in your place of prayer for 10 minutes, and ask God to strengthen your resolve in the face of trials.\""
+}
