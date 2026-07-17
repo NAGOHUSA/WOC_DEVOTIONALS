@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-07-17",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 202,
+  "content_markdown": "# Fueled by Faith\n## Scripture\n\"For God did not give us a spirit of fear, but of power and of love and of self-discipline.\" – 2 Timothy 1:7\n## Reflection\nAs warriors of Christ, we face numerous challenges and uncertainties in our daily lives. It's easy to feel overwhelmed and fearful, but we must remember that we have been given a spirit of power, love, and self-discipline. This spirit is not a feeling, but a gift from God that enables us to face our fears and overcome obstacles. We don't have to be controlled by fear; instead, we can be fueled by faith and trust in God's goodness and sovereignty.\n\nAs we go about our day, let's remember that we have the power to overcome any challenge that comes our way. We have the love of God in our hearts, and we have the discipline to make choices that align with His will. Let's not let fear hold us back; let's be fueled by faith and watch God work through us to accomplish great things.\n\n## Daily Challenge\n\"Do 20 jumping jacks while declaring, 'I have the power of God in me, and I will not be held back by fear.'\""
+}
