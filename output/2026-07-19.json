@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-07-19",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 165,
+  "content_markdown": "# Focused on the Frontlines\n## Scripture\n\"Put on the whole armor of God, that you may be able to stand against the schemes of the devil.\" – Ephesians 6:11\n## Reflection\nAs Warriors of Christ, we often face battles that test our resolve and faith. It's easy to get distracted by the noise of the world and lose focus on what's truly important. But the Bible reminds us to put on the whole armor of God, equipping us to stand firm against the enemy's schemes. This armor includes the belt of truth, the breastplate of righteousness, and the shield of faith. It's not about being invincible, but about being intentional and focused on God's word. As you face the challenges of your day, remember to put on the armor of God and trust in His strength to see you through.\n\n## Daily Challenge\n\"Run 5 miles while repeating Psalm 119:105, 'Your word is a lamp to my feet and a light for my path.'\""
+}
