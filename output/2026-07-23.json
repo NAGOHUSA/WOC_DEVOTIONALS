@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-07-23",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 148,
+  "content_markdown": "# Unshakeable Foundation\n## Scripture\n\"Every good gift and every perfect gift is from above, coming down from the Father of lights, with whom there is no variation or shadow due to change.\" – James 1:17\n\n## Reflection\nAs warriors of Christ, we often face challenges that can shake our faith and test our resolve. But we must remember that our foundation is not built on the shifting sands of this world, but on the unshakeable rock of God's goodness. Every good gift, every blessing, and every provision comes from Him. When the storms of life rage around us, we can stand firm, knowing that our Father is always faithful. He is the source of all good things, and His love for us is unwavering.\n\n## Daily Challenge\n\"Write down three things you're thankful for today and take a moment to pray, acknowledging God's goodness in your life.\""
+}
