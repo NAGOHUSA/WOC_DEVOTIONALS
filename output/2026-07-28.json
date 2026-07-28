@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-07-28",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 152,
+  "content_markdown": "# Unshaken Resolve\n## Scripture\n\"Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up.\" – Galatians 6:9\n\n## Reflection\nAs warriors of Christ, we face battles every day. Our resolve is often tested by the challenges we encounter. However, our faith is not defined by our feelings or circumstances. It's defined by our commitment to God. We must stand firm in our convictions, even when it's hard. We must remember that our labor in God's kingdom is not in vain. Every good deed, every kind word, and every act of love is a seed sown for a future harvest. So, let's not grow weary in doing good. Let's press on, trusting that God will reward our efforts in due time.\n\n## Daily Challenge\n\"Do 25 squats while repeating the phrase 'I will be unshaken in my faith.'\""
+}
