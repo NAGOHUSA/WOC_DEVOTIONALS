@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-07-29",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 133,
+  "content_markdown": "# Unshakeable Faith\n## Scripture\n\"Have faith in God.\" – Mark 11:22\n\n## Reflection\nIn the midst of life's storms, it's easy to lose our footing. To waver in our faith. But the Bible tells us to have faith in God. This isn't a wishy-washy, spineless faith. No, this is a rock-solid, unwavering trust in the One who holds all things together. It's the kind of faith that says, \"I don't know what tomorrow holds, but I know who holds tomorrow.\" When the winds howl and the waves crash, our faith must be anchored in the unshakeable foundation of God's Word. We must learn to trust Him, not just in the calm times, but in the turbulent ones as well.\n\n## Daily Challenge\n\"Do 25 burpees while declaring your trust in God's faithfulness.\""
+}
