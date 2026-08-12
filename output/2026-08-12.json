@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-08-12",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 161,
+  "content_markdown": "# Unwavering Resolve\n## Scripture\n\"Do you not know that in a race all the runners run, but only one gets the prize? So run as to get the prize.\" – 1 Corinthians 9:24\n\n## Reflection\nIn today's world, distractions and obstacles can easily derail our focus on what truly matters. Yet, as warriors of Christ, we must remain unwavering in our resolve to run the good race. This means setting our sights on the prize of eternal life, and pressing on through challenges and struggles. It's a daily choice to prioritize our faith, to seek spiritual growth, and to rely on God's strength. We must avoid the pitfalls of complacency and laziness, instead choosing to run with perseverance and courage. As we journey through life, let us remember that the reward is worth the effort. Let us press on, no matter what lies ahead.\n\n## Daily Challenge\n\"Run 1 mile while praying for the strength to persevere in your faith.\""
+}
