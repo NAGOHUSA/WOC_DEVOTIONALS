@@ -1,0 +1,10 @@
+{
+  "app": "Warriors of Christ",
+  "date": "2026-08-14",
+  "provider": "groq",
+  "model": "llama-3.1-8b-instant",
+  "max_tokens": 500,
+  "temperature": 0.7,
+  "words": 141,
+  "content_markdown": "# Fueled for the Fight\n## Scripture\n\"Finally, be strong in the Lord and in the strength of his might.\" – Ephesians 6:10\n## Reflection\nAs men, we often put ourselves through rigorous physical training to prepare for battle, whether that's a marathon, a tough workout, or even military service. But have you ever thought about spiritual training? As Christians, we're called to be strong in the Lord, not just in our own strength. This means relying on God's power and might, rather than our own, to face the challenges of life. It means praying for strength, seeking guidance from Scripture, and putting on the armor of God (Ephesians 6:11-17). When we're fueled by God's strength, we're better equipped to tackle the battles we face every day.\n\n## Daily Challenge\n\"Run 1 mile while praying for God's strength in your life.\""
+}
